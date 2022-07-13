@@ -1,4 +1,6 @@
-# Simulacao REST API NodeJS
+# Simulacao REST API NodeJS   -  ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUÍDO&color=GREEN&style=for-the-badge)
+
+
 
 Itens necessários:
 - Acesso a internet
@@ -41,7 +43,6 @@ Baixe a pasta toda e extraia em seu computador
 
 ## Acessando servidor local
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUÍDO&color=GREEN&style=for-the-badge)
 
 - O servidor será executado em `http://localhost:3000`. Só abrir qualquer browser e digitar que será aberta a página inicial do API.
 
